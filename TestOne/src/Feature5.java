@@ -16,6 +16,5 @@ public class Feature5 {
     public Feature5(int fid, String fname) {
         this.fid = fid;
         this.fname = fname;
-
     }
 }
