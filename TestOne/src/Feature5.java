@@ -17,6 +17,5 @@ public class Feature5 {
         this.fid = fid;
         this.fname = fname;
 
-        System.out.println("");
     }
 }
